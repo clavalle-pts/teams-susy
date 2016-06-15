@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/mneal-pts/teams-susy/issues"
   },
-  "homepage": "https://github.com/mneal-pts/teams-susy#readme"
+  "homepage": "https://github.com/mneal-pts/teams-susy#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.1.0",
+    "gulp-server-livereload": "^1.8.1"
+  }
 }
