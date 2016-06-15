@@ -1,0 +1,27 @@
+{
+  "name": "teamssusy",
+  "version": "1.0.0",
+  "description": "susy grid calculations for teams ui sst",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp sync"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mneal-pts/teams-susy.git"
+  },
+  "keywords": [
+    "susy",
+    "ui",
+    "teams",
+    "sst",
+    "grid",
+    "sass"
+  ],
+  "author": "michael neal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mneal-pts/teams-susy/issues"
+  },
+  "homepage": "https://github.com/mneal-pts/teams-susy#readme"
+}
